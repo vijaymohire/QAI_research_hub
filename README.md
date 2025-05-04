@@ -9,7 +9,7 @@ Links to key research documents (internal and external published):
 
 [Applied Research folder](https://github.com/vijaymohire/applied_research)
 
-[Disruptive Innovation](https://github.com/vijaymohire/disruptive_solns_using_AR/disruptive_innovations/Disruptive Innovations-Ver 1.0.pdf)
+[Disruptive Innovation](https://github.com/vijaymohire/disruptive_solns_using_AR/blob/main/disruptive_innovation/Disruptive%20Innovations-Ver%201.0.pdf)
 
 [2030 and beyond Tech folder](https://github.com/vijaymohire/2030_and_beyond_tech)
 
