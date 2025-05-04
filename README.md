@@ -9,3 +9,11 @@ Links to key research documents (internal and external published):
 
 [Applied Research folder](https://github.com/vijaymohire/applied_research)
 
+[Disruptive Innovation](disruptive_innovation/Disruptive Innovations-Ver 1.0.pdf)
+
+[2030 and beyond Tech folder](https://github.com/vijaymohire/2030_and_beyond_tech)
+
+[Master Org Framework - Inventory](https://github.com/vijaymohire/organization_frameworks/blob/main/Master%20Org%20Framework%20-%20Inventory.pdf)
+
+[Master Org Framework- Chart](https://github.com/vijaymohire/organization_frameworks/blob/main/Master%20Org%20Framework-%20Chart.pdf)
+
