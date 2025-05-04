@@ -5,7 +5,7 @@ Research Topics mainly focused on use of QAI and related technologies for the up
 
 Links to key research documents (internal and external published):
 
-Master Research Catalogue[https://github.com/vijaymohire/applied_research/blob/main/MASTER%20RESEARCH%20CATALOGUE%20-%20V1.1.pdf]
+[Master Research Catalogue](https://github.com/vijaymohire/applied_research/blob/main/MASTER%20RESEARCH%20CATALOGUE%20-%20V1.1.pdf)
 
-Applied Research folder[https://github.com/vijaymohire/applied_research]
+[Applied Research folder](https://github.com/vijaymohire/applied_research)
 
